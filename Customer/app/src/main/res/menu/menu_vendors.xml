@@ -1,0 +1,13 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    xmlns:compat="http://schemas.android.com/apk/res-auto"
+    tools:context=".VendorsActivity">
+
+    <item android:id="@+id/search"
+        android:icon="@drawable/search"
+        android:title="Search Title"
+        app:showAsAction="always"
+        />
+
+</menu>

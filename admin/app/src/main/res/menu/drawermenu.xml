@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+
+
+    <item
+        android:title="PRIVACY POLICY"
+        android:id="@+id/priPol"
+        android:icon="@drawable/inbox"/>
+
+    <item
+        android:title="T&amp;C"
+        android:id="@+id/tandC"
+        android:icon="@drawable/sent"/>
+
+    <item
+        android:title="ABOUT US"
+        android:id="@+id/abtUs"
+        android:icon="@drawable/senta"/>
+    <item
+        android:title="LOG OUT"
+        android:id="@+id/logOut"
+        android:icon="@drawable/bin"/>
+
+
+</menu>

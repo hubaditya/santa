@@ -1,0 +1,10 @@
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:context="com.github.florent37.materialviewpager.santa.CartActivity">
+
+    <item android:id="@+id/cartClear" android:title="CLEAR"
+        android:orderInCategory="100" app:showAsAction="always" />
+<!--    <item android:id="@+id/cartOffers" android:title="OFFERS"
+        android:orderInCategory="1" app:showAsAction="always" />-->
+</menu>

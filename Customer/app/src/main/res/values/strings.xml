@@ -1,0 +1,60 @@
+<resources>
+    <string name="app_name">Delivery Santa</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+
+<!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="title_activity_cart">CartActivity</string>
+    <string name="title_activity_vendors">CustomersActivity</string>
+
+    <string name="drawer_open">Slider Menu Opened</string>
+    <string name="drawer_close">Slider Menu Closed</string>
+
+    <!-- Nav Drawer Menu Items -->
+    <string-array name="nav_drawer_items">
+        <item >Home</item>
+        <item >Find People</item>
+        <item >Photos</item>
+        <item >Communities</item>
+        <item >Pages</item>
+        <item >What\'s Hot</item>
+    </string-array>
+
+    <!-- Nav Drawer List Item Icons -->
+    <!-- Keep them in order as the titles are in -->
+    <array name="nav_drawer_icons">
+        <item>@drawable/flying</item>
+        <item>@drawable/cart</item>
+        <item>@drawable/flying</item>
+        <item>@drawable/cart</item>
+        <item>@drawable/flying</item>
+        <item>@drawable/cart</item>
+    </array>
+
+    <!-- Content Description -->
+    <string name="desc_list_item_icon">Item Icon</string>
+    <string name="openDrawer">open drawer</string>
+    <string name="closeDrawer">close drawer</string>
+    <string name="title_activity_about_us">AboutUsActivity</string>
+    <string name="title_activity_dish_search">DishSearchActivity</string>
+    <string name="title_activity_my_orders">MyOrdersActivity</string>
+    <string name="title_activity_main2">Main2Activity</string>
+    <string name="enterphonenumber">Enter your phone number</string>
+    <string name="selectcountry">Select country</string>
+    <string name="sending_sms">We\'re sending an sms to</string>
+    <string name="inprogress">Verification in\nprogress</string>
+    <string name="verified">Verification successful</string>
+    <string name="failed">Verification failed</string>
+    <string name="entercode">Please enter the code you received</string>
+
+    <string-array name="fp_vendor_list">
+        <item >VENDOR</item>
+        <item >PIZZA HUT</item>
+        <item >DOMINOS</item>
+        <item >KEBABS &amp; CURRIES</item>
+    </string-array>
+    <string name="title_activity_splash_screen">SplashScreen</string>
+
+</resources>

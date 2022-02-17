@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+<menu
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+<!--
+    <item
+        android:title="REQUEST UPDATE"
+        android:id="@+id/reqUpd"
+        android:icon="@drawable/settings"/>
+
+    <item
+        android:title="NOTIFY ABSENCE"
+        android:id="@+id/notAbs"
+        android:icon="@drawable/help"/>
+
+-->
+
+    <item
+        android:title="PRIVACY POLICY"
+        android:id="@+id/priPol"
+        android:icon="@drawable/ic_security_black_36dp"/>
+
+    <item
+        android:title="T&amp;C"
+        android:id="@+id/tandC"
+        android:icon="@drawable/ic_info_black_36dp"/>
+
+    <item
+        android:title="ABOUT US"
+        android:id="@+id/abtUs"
+        android:icon="@drawable/ic_business_center_black_36dp"/>
+
+    <item
+        android:title="LOG OUT"
+        android:id="@+id/logOut"
+        android:icon="@drawable/ic_power_settings_new_black_36dp"/>
+
+</menu>
